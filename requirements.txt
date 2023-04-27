@@ -1,0 +1,9 @@
+mlxtend
+numpy
+pandas
+matplotlib
+seaborn
+missingno
+scikit-learn
+python-dotenv
+xgboost 
